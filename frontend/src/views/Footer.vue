@@ -24,7 +24,7 @@ const { t } = useI18n({
             <n-text depth="3">
                 {{ t('copyright') }} &copy; 2023-{{ new Date().getFullYear() }} {{ openSettings.copyright }}
                 <br>
-                萌ICP备<a href="https://icp.gov.moe/?keyword=20226212" target="_blank">20226212</a>号
+                萌ICP备<a href="https://icp.gov.moe/?keyword=20240520" target="_blank">20240520</a>号
             </n-text>
         </div>
     </div>
