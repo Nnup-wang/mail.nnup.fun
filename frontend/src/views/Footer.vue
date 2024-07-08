@@ -22,7 +22,9 @@ const { t } = useI18n({
         <n-divider class="footer-divider" />
         <div style="text-align: center; padding: 20px">
             <n-text depth="3">
-                {{ t('copyright') }} © 2023-{{ new Date().getFullYear() }} {{ openSettings.copyright }}
+                {{ t('copyright') }} &copy; 2023-{{ new Date().getFullYear() }} {{ openSettings.copyright }}
+                <br>
+                萌ICP备<a href="https://icp.gov.moe/?keyword=20226212" target="_blank">20226212</a>号
             </n-text>
         </div>
     </div>

@@ -17,7 +17,7 @@ export const useGlobalState = createGlobalState(
             enableIndexAbout: false,
             /** @type {Array<{label: string, value: string}>} */
             domains: [],
-            copyright: 'Dream Hunter',
+            copyright: 'Nnup',
             cfTurnstileSiteKey: '',
             enableWebhook: false,
             isS3Enabled: false,
